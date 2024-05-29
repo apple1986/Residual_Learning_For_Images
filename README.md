@@ -1,5 +1,6 @@
 # Title: Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey
 Description: This project is part of our survey.
+The survey paper can be downloaded on： https://arxiv.org/abs/2405.01725
 
 # Part I: Residual_Learning_In_Deep_Neural_Networks
 ## 1. Short and long skip connection
